@@ -1,0 +1,11 @@
+{
+  "name": "auth",
+  "version": "1.0.0",
+  "description": "[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-zwjpcf)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
